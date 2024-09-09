@@ -65,7 +65,6 @@
     "lint": "eslint ."
   },
   "devDependencies": {
-    "@sinonjs/fake-timers": "10.0.0",
     "bluebird-retry": "^0.11.0",
     "browserify": "^17.0.0",
     "chai": "^4.0.2",
@@ -80,7 +79,7 @@
     "request": "^2.51.0",
     "saucie": "^3.3.3",
     "shelljs": "^0.8.2",
-    "sinon": "^15.0.0",
+    "sinon": "15.1.2",
     "sinon-chai": "^3.2.0",
     "socket.io-client": "^4.1.2",
     "tape": "^5.2.2"
